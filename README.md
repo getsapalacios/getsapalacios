@@ -49,7 +49,7 @@ I focus on:
 - Architecture thinking  
 - Iterative improvement  
 
-### Real Estate & Operations
+### Investment Operations
 - Operational workflows  
 - Risk-aware decision-making  
 - Business outcome alignment  
