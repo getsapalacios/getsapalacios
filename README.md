@@ -67,11 +67,15 @@ I’m also a **civil servant**, and I take stewardship seriously. Public trust, 
 
 Staying healthy is a **deliberate, lifelong pursuit**. In a world full of convenience and excess, I choose challenge, consistency, and progress over perfection.
 
+## Current Projects
 
+MVP: [Socialists Project](https://github.com/users/getsapalacios/projects/3)
 
+MVP: [Master and Spec Project](https://github.com/users/getsapalacios/projects/1)
 
+MVP: Notebook Creation
 
-# operator_docs
+# About the contents of this repository
 
 Centralized documentation for operator workflows, decisions, and reusable templates.
 
@@ -88,7 +92,7 @@ Canonical documentation lives in `docs/`. Start with `docs/00_START_HERE/index.m
 - `docs/`: Primary documentation and how-to guides.
 - `docs/01_MVPs/`: MVP-specific documentation sets.
 - `decisions/`: Decision records and rationale.
-- `templates/`: Reusable document templates.
+- `templates/`: Reusable templates.
 - `assets/`: Images, diagrams, and other media.
 
 ## Usage
