@@ -71,8 +71,6 @@ Staying healthy is a **deliberate, lifelong pursuit**. In a world full of conven
 
 MVP: [Socialists Project](https://github.com/users/getsapalacios/projects/3)
 
-MVP: [Master and Spec Project](https://github.com/users/getsapalacios/projects/1)
-
 MVP: Notebook Creation
 
 # About the contents of this repository
